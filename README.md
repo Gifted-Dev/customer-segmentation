@@ -7,4 +7,3 @@ This project aims to segment customers into distinct groups using clustering tec
 - `data/`: Contains raw and processed datasets.
 - `notebooks/`: Jupyter notebooks for data analysis and model development.
 - `src/`: Python scripts for reusable functions and model building.
-- `outputs/`: Contains generated plots and reports.
